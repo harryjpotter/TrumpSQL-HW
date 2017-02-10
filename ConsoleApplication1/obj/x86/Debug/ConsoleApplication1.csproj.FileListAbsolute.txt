@@ -4,3 +4,10 @@ c:\users\user1\documents\visual studio 2010\Projects\ConsoleApplication1\Console
 c:\users\user1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
 c:\users\user1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Reporters.mdf
 c:\users\user1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Reporters_log.ldf
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\bin\Debug\Reporters.mdf
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\bin\Debug\Reporters_log.ldf
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\rotem_000\Documents\GitHub\TrumpSQL-HW\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
